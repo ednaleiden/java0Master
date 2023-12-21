@@ -15,7 +15,11 @@ public class Primalidad {
             System.out.println("no es numero primo");
         }
     }
-
+    /**
+     * <h1>Cargando funcion es primo</h1>
+     * @return retorna un valor booleano si es numero es primo o no
+     * @param num recibe un numero entero
+    */
     static boolean esPrimo(int num){
         int contador= 0;
 
