@@ -29,3 +29,9 @@ b
 2src/main/java/org/example/Funciones/ClaseMath.java,f\5\f583bde4204ae955489ed81ba5fe11f11b1063aa
 V
 &src/main/java/org/example/EsVocal.java,2\e\2ee30876d9b0944720657f48ee686c8c4c1c9898
+u
+Esrc/main/java/org/example/GenerdadorContraseñas/GenerePasswords.java,6\d\6d240b86f338784e7026ea92d6c9d53f1b1b0cf9
+d
+4src/main/java/org/example/Palindormo/Palindromo.java,7\a\7abc237660fc53d8f8272550b87f487a07ea2aba
+d
+4src/main/java/org/example/Funciones/ClaseString.java,6\f\6fcf72a887b750ab91f48c3a5f2783b90787b55a
