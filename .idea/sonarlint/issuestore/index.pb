@@ -35,3 +35,13 @@ d
 4src/main/java/org/example/Palindormo/Palindromo.java,7\a\7abc237660fc53d8f8272550b87f487a07ea2aba
 d
 4src/main/java/org/example/Funciones/ClaseString.java,6\f\6fcf72a887b750ab91f48c3a5f2783b90787b55a
+^
+.src/main/java/org/example/JavaPOO/javaPoo.java,4\b\4b52d107ac95a8c10f5c540feb2216ca37090cbd
+f
+6src/main/java/org/example/JavaPOO/clases/paquetes.java,4\2\42b1d997422d3eac57abe7a813e07b7e4324bc93
+i
+9src/main/java/org/example/JavaPOO/clases/Calculadora.java,2\3\23985fc52c52ee5120bf93695f304a036abab168
+b
+2src/main/java/org/example/JavaPOO/Modularidad.java,0\3\03957e1ca69aafdf3d5b65209f3f39ac49884a85
+h
+8src/main/java/org/example/JavaPOO/clases/Rectangulo.java,6\5\655236c0e17f5f27eeea1434fbf9862755e11a67
