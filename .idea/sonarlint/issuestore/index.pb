@@ -45,3 +45,17 @@ b
 2src/main/java/org/example/JavaPOO/Modularidad.java,0\3\03957e1ca69aafdf3d5b65209f3f39ac49884a85
 h
 8src/main/java/org/example/JavaPOO/clases/Rectangulo.java,6\5\655236c0e17f5f27eeea1434fbf9862755e11a67
+m
+=src/main/java/org/example/JavaPOO/clases/Encapsulamiento.java,2\b\2bbc9cf032a9c15b232285c0785bbc5c475ce585
+z
+Jsrc/main/java/org/example/JavaPOO/encapsulamiento/personaGetterSetter.java,f\4\f44a42e45cdd63ed0964ac43336343bfd4cd06e6
+i
+9src/main/java/org/example/JavaPOO/Herencia/Empleados.java,0\e\0ecc5d636e454fea83317d01b1092d10382d4930
+h
+8src/main/java/org/example/JavaPOO/Herencia/Herencia.java,6\1\6137f2a8793ac89e03bdf3711d84b6b49f293e1c
+j
+:src/main/java/org/example/JavaPOO/Herencia/InstanceOf.java,a\a\aa593de58c06d11513833cb45922e2e59631d7ff
+f
+6src/main/java/org/example/JavaPOO/Herencia/Person.java,f\7\f7912d3ec9c203e980baae7bf6af91ca33dc630a
+k
+;src/main/java/org/example/JavaPOO/Herencia/Polimofismo.java,1\a\1a73a6913e8d1c233ed89749940d8c54ad28639a
